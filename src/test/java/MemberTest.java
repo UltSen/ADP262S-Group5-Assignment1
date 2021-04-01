@@ -71,8 +71,7 @@ public class MemberTest {
         String expResult = "";
         String result = member1.getMember();
         assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        
+        // TODO review the generated test code and remove the default call to fail.  
     }
     
 }
